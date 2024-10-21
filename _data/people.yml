@@ -2,12 +2,12 @@
 
 
 profx:
-    display_name: "肖航  Hang Xiao"
-    github: xiaohang007
-    role: faculty
-    image: /img/people/hang.jpg
-    bio: 助理教授  Assistant Professor
-    webpage: "https://scholars.ln.edu.hk/en/persons/hang-xiao"
+    display_name: "曾叶鑫  YexinZeng"
+    github: GP03-dendrobium
+    role: author
+    image: /img/people/zyx.jpg
+    bio: 网页作者 author
+    webpage: ""
 
 scott:
     display_name: "Scott Summers"
